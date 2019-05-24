@@ -1,0 +1,4 @@
+<?php 
+$x = "halo dunia";
+echo $x;
+ ?>
